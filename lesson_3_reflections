@@ -7,7 +7,8 @@ When I work with other people or when I work from different coomputers or places
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Commits are very small steps, usally I want a bigger step, containing a lot of small steps, be finished before showing it to others.
+
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
